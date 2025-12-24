@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(88, 123, 111);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 23px;
+    display: block;
+    margin: 12px ;
+    text-align: center;
+    background-color: rgb(203, 194, 161);
+    font-size: larger;
+    font-weight: 700;
+    
+}
+
+h1{
+    text-align: center;
+    padding: 12px;
+    margin: 12px;
+    
+}
+img{
+    height: 231px;
+    width: auto;
+}
+
+h2{
+    text-align: center;
+    padding: 12px;
+    margin: 12px;
+    border: 2px solid;
+    background-color: rgb(203, 194, 161);
+}

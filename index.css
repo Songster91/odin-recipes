@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+     font-family: 'Courier New', Courier, monospace;
+
+}
+
+body{
+    background-color: rgb(88, 123, 111);
+}
+
+h1{
+    text-align: center;
+    color: rgb(87, 123, 123); 
+    background-color: rgb(203, 194, 161);
+    padding: 12px;
+    margin: 12px;
+
+}
+
+ol{
+    display: inline-block;
+    
+}
+
+ol li{
+list-style: decimal-leading-zero;
+font-size: larger;
+padding: 6px;
+margin: 6px 32px;
+text-align: center;
+border: 2px solid;
+background-color: rgb(203, 194, 161);
+}
+
+ol li a{
+    color: black;
+    text-decoration: none;
+    font: size 23px;
+    color: rgb(56, 73, 73);
+    
+}
+    
